@@ -25,7 +25,7 @@ console.log(Christoffel);
 ```
 &nbsp;
 - 👯 I’m looking to collaborate on anything! Just let me know :D
-- Anyway, let me introduce you to my [helpful assistant](https://github.com/CloverJoy/JulietPersia-bot) on Discord (I'm working on her in my free time ⚡)
+#### Anyway, let me introduce you to my [helpful assistant](https://github.com/CloverJoy/JulietPersia-bot) on Discord (I'm working on her in my free time ⚡)
 ![Juliet Persia](https://raw.githubusercontent.com/CloverJoy/CloverJoy/master/assets/edited.gif)
 &nbsp;
 ### 📫 How to reach me:
