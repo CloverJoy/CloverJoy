@@ -2,7 +2,7 @@
 ## Hi there 👋
 **Thank you for visiting my Github profile!**
 ### About me
-- 🌱 I’m an ENFP!
+- I’m an ENFP 🌱 
 - Always love to learn about new things
 - Let me log the detail about me
 &nbsp;
@@ -24,10 +24,11 @@ Christoffel.learnSomethingNew('gatsby', 'frontend');
 console.log(Christoffel);
 ```
 &nbsp;
-- 👯 I’m looking to collaborate on anything! Just let me know :D
+- I’m looking to collaborate on anything! Just let me know 👯
 #### Anyway, let me introduce you to my [helpful assistant](https://github.com/CloverJoy/JulietPersia-bot) on Discord (I'm working on her in my free time ⚡)
 ![Juliet Persia](https://raw.githubusercontent.com/CloverJoy/CloverJoy/master/assets/edited.gif)
-&nbsp;
+### Stats
+![CloverJoy GitHub stats](https://github-readme-stats.vercel.app/api?username=CloverJoy&count_private=true&show_icons=true&theme=cobalt&hide=issues,stars)
 ### 📫 How to reach me:
 Email: chris.ang.dev@gmail.com
 &nbsp;
