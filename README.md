@@ -13,14 +13,14 @@ const Christoffel = {
   nickname: 'CloverJoy',
   frontend: ['React', 'styled-components', 'Javascript', 'HTML5', 'CSS', 'scss', 'chakra-ui'],
   backend: ['Node JS', 'Express', 'bcrypt', 'jwt', 'MongoDB', 'Mongoose', 'PostgreSQL', 'MySQL'],
-  tools: ['Webpack/Babel', 'Jest/React-testing-library', 'Docker', 'AWS EC2', 'Heroku', 'Nginx'],
+  tools: ['Gatsby', 'Webpack/Babel', 'Jest/React-testing-library', 'Docker', 'AWS EC2', 'Heroku', 'Nginx'],
   isLearning: true,
   isWantToStopLearning: false,
   learnSomethingNew: function(newthing, category ) {
     this[category].push(newthing);
   },
 };
-Christoffel.learnSomethingNew('gatsby', 'frontend');
+Christoffel.learnSomethingNew('Loopback', 'backend');
 console.log(Christoffel);
 ```
 &nbsp;
