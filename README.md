@@ -20,7 +20,7 @@ const Christoffel = {
     this[category].push(newthing);
   },
 };
-Christoffel.learnSomethingNew('Loopback', 'backend');
+Christoffel.learnSomethingNew('Typescript', 'tools');
 console.log(Christoffel);
 ```
 &nbsp;
