@@ -2,7 +2,7 @@
 ## Hi there 👋
 **Thank you for visiting my Github profile!**
 ### About me
-- I’m an ENFP 🌱 
+- Fullstack developer, also an ENFP 🌱 
 - Always love to learn about new things
 - Let me log the detail about me
 &nbsp;
