@@ -1,4 +1,4 @@
-![Christoffel Angga](https://raw.githubusercontent.com/CloverJoy/CloverJoy/master/assets/CHRISTOFFEL%20ANGGA.png)
+![Christoffel Angga](https://raw.githubusercontent.com/CloverJoy/CloverJoy/master/assets/cover.png)
 ## Hi there 👋
 **Thank you for visiting my Github profile!**
 ### About me
