@@ -30,7 +30,7 @@ console.log(Christoffel);
 ### 📫 How to reach me:
 Email: chris.ang.dev@gmail.com
 &nbsp;
-Linkedin: [linkedin.christoffel.xyz](https://linkedin.christoffel.xyz/)
+Linkedin: [linkedin.christoffel.xyz](http://linkedin.christoffel.xyz/)
 
 
 <!--
