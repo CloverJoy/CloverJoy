@@ -27,6 +27,8 @@ console.log(Christoffel);
 ### I’m looking to collaborate on anything! Just let me know ⚡
 ### Stats
 ![CloverJoy GitHub stats](https://github-readme-stats.vercel.app/api?username=CloverJoy&count_private=true&show_icons=true&theme=solarized-dark&hide=issues,stars)
+<br />
+[![CloverJoy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloverJoy)](https://github.com/anuraghazra/github-readme-stats)
 ### 📫 How to reach me:
 Email: chris.ang.dev@gmail.com
 &nbsp;
