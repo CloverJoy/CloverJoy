@@ -2,7 +2,7 @@
 ## Hi there 👋
 **Thank you for visiting my Github profile!**
 ### About me
-- Fullstack developer, from Indonesia, also an ENFP 🌱 
+- Fullstack developer, from Indonesia, Based on Seattle, WA, also an ENFP 🌱 
 - Always love to learn about new things
 - Let me log the detail about me
 &nbsp;
