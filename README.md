@@ -14,7 +14,7 @@ const Christoffel = {
   frontend: ['React', 'styled-components', 'Javascript', 'HTML5', 'CSS', 'scss', 'chakra-ui'],
   backend: ['Node JS', 'Express', 'bcrypt', 'jwt', 'MongoDB', 'Mongoose', 'PostgreSQL', 'MySQL'],
   tools: ['Gatsby', 'Webpack/Babel', 'Jest/React-testing-library', 'AWS EC2/Google Compute/Oracle cloud', 
-  'Heroku', 'Netlify', 'Nginx', 'Next JS', 'Gatsby', 'Docker'],
+  'Heroku', 'Netlify', 'Nginx', 'Next JS', 'Gatsby', 'Docker/Docker-compose'],
   isLearning: true,
   isWantToStopLearning: false,
   learnSomethingNew: function(newthing, category ) {
