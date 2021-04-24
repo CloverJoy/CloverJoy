@@ -21,8 +21,6 @@ const Christoffel = {
     this[category].push(newthing);
   },
 };
-Christoffel.learnSomethingNew('Typescript', 'tools');
-console.log(Christoffel);
 ```
 &nbsp;
 ### I’m looking to collaborate on anything! Just let me know ⚡
