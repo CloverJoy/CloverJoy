@@ -7,6 +7,8 @@
 - Let me log the detail about me
 &nbsp;
 &nbsp;
+
+
 ```javascript
 const Christoffel = {
   location: 'Seattle, WA',
