@@ -38,6 +38,8 @@ Linkedin: [linkedin.christoffel.xyz](http://linkedin.christoffel.xyz/)
 
 
 <!--
+
+Will make the more lightweight version of bio
 **CloverJoy/CloverJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
