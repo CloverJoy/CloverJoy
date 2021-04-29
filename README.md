@@ -1,6 +1,6 @@
 ![Christoffel Angga](https://raw.githubusercontent.com/CloverJoy/CloverJoy/master/assets/CHRISTOFFEL%20ANGGA.png)
 ## Hi there 👋
-**Thank you for visiting my Github profile!**
+**Thank you for visiting my Github profile!!!**
 ### About me
 - Fullstack developer, from Indonesia, based on Seattle, WA, also an ENFP 🌱 
 - Always love to learn about new things
