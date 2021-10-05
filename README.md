@@ -4,7 +4,7 @@
 ### About me
 - Fullstack developer, from Indonesia, based on Seattle, WA, also an ENFP 🌱 
 - Always love to learn about new things
-- Let me log the detail about me
+- Let me log the detail about me.
 &nbsp;
 &nbsp;
 
